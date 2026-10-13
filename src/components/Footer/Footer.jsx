@@ -86,13 +86,13 @@ export default function Footer() {
                   style={{ width: 60, backgroundColor: "#0aad0a", height: 2 }}
                 />
                 <p>
-                  <i className="fas fa-home me-3" /> Mansoura, Cairo
+                  <i className="fas fa-home me-3" /> Mansoura, Egypt
                 </p>
                 <p>
-                  <i className="fas fa-envelope me-3" /> nasefibrahim@gmail.com
+                  <i className="fas fa-envelope me-3" /> mahmoudesh55@gmail.com
                 </p>
                 <p>
-                  <i className="fas fa-phone me-3" /> +20 1 012 477 230
+                  <i className="fas fa-phone me-3" /> +20 01096331529
                 </p>
                 
               </div>
